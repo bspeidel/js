@@ -1,0 +1,2 @@
+# js
+JavaScript Style Guide
